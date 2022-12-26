@@ -6,9 +6,9 @@
 <br/>
 
 <p>
-  <a href="https://blog.suk.kr" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://www.instagram.com/woosuk_/" target="_blank"><img src="https://img.shields.io/badge/woosuk__-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:admin@suk.kr" target="_blank"><img src="https://img.shields.io/badge/admin@suk.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/woosuk_/" target="_blank"><img src="https://img.shields.io/badge/woosuk__-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://blog.suk.kr" target="_blank"><img src="https://img.shields.io/badge/Blog-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 <br>
