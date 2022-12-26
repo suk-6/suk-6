@@ -1,7 +1,34 @@
 ### Hi there 👋
 
+
+<div align="center">
+
+<br/> 
+
+### 👉 [suk.kr](https://suk.kr) 👈
+
+<br/>
+
+<p>
+  <a href="https://blog.suk.kr" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.instagram.com/woosuk_/" target="_blank"><img src="https://img.shields.io/badge/woosuk_-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:admin@suk.kr" target="_blank"><img src="https://img.shields.io/badge/admin@suk.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<br>
+
+
+![suk-6's GitHub stats](https://github-readme-stats.vercel.app/api?username=suk-6&show_icons=true&theme=react)
+
+
+</div>
+
+
 <!--
-**suk-6/suk-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--
+**rkskekzzz/rkskekzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
