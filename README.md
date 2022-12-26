@@ -1,9 +1,5 @@
-### Hi there 👋
-
-
 <div align="center">
 
-<br/> 
 
 ### 👉 [suk.kr](https://suk.kr) 👈
 
