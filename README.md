@@ -1,9 +1,9 @@
 <div align="center">
 
 
-### 👉 [suk.kr](https://suk.kr) 👈
+### [It is me.](https://suk.kr)
 
-<br/>
+<br>
 
 <p>
   <a href="mailto:admin@suk.kr" target="_blank"><img src="https://img.shields.io/badge/admin@suk.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
