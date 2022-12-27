@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
+<p>Social Network</p>
 <p>
-  Social Network
   <a href="mailto:admin@suk.kr" target="_blank"><img src="https://img.shields.io/badge/admin@suk.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/woosuk_/" target="_blank"><img src="https://img.shields.io/badge/woosuk__-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.twitter.com/woosuknam" target="_blank"><img src="https://img.shields.io/badge/woosuknam-1D9BF0?style=flat-square&logo=Twitter&logoColor=white"/></a>
