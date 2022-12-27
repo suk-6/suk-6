@@ -1,10 +1,10 @@
-<div align="center">
-
+# suk-6
 
 ### [It is me.](https://suk.kr)
 
 <br>
 
+<div align="center">
 <p>
   <a href="mailto:admin@suk.kr" target="_blank"><img src="https://img.shields.io/badge/admin@suk.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/woosuk_/" target="_blank"><img src="https://img.shields.io/badge/woosuk__-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -14,10 +14,10 @@
 <br>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suk-6&layout=compact&theme=react)
+
 ![suk-6's GitHub stats](https://github-readme-stats.vercel.app/api?username=suk-6&show_icons=true&theme=react)
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suk-6&layout=compact&theme=react)
 
 </div>
 
