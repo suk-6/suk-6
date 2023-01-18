@@ -16,9 +16,9 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suk-6&layout=compact&theme=react)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suk-6&layout=compact&theme=react)
 
-![suk-6's GitHub stats](https://github-readme-stats.vercel.app/api?username=suk-6&show_icons=true&theme=react)
+![suk-6's GitHub stats](https://github-readme-stats.vercel.app/api?username=suk-6&show_icons=true&theme=react) -->
 
 
 </div>
