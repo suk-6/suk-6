@@ -2,7 +2,8 @@
 
 ### About Me
 - I'm a student in the software department of Dukyoung High School. ('22 ~ )
-- I'm interested in security(cybersec), AI, web, app, servers, and Devops.
+- I'm interested in AI, security(cybersec), web, app, and Devops.
+- I'm challenging Daily Commit as a goal for 2024.
 - My portfolio is [here](https://pf.suk.kr)!
 
 |[<img src="https://api.bento.me/v1/og/suk?v=470063" />](https://bento.me/suk)|
