@@ -2,7 +2,6 @@
 
 ### About Me
 - I'm a student in the software department of Dukyoung High School in South Korea. ('22 ~ )
-- I'm interested in AI, security(cybersec), web, app, and Devops.
 - I'm challenging Daily Commit as a goal for 2024.
 - My portfolio is [here](https://pf.suk.kr)!
 
