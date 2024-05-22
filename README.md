@@ -5,6 +5,8 @@
 - I'm challenging Daily Commit as a goal for 2024.
 - My portfolio is [here](https://pf.suk.kr)!
 
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,fastapi,pytorch,opencv,react,flask,flutter,vercel,cloudflare,firebase,prisma,mongodb,linux)](https://skillicons.dev)
+
 |[<img src="https://api.bento.me/v1/og/suk?v=470063" />](https://bento.me/suk)|
 |:---|
 |For more information about me, check out [my Bento](https://bento.me/suk)!|
