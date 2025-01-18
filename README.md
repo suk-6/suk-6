@@ -1,6 +1,4 @@
-## [@suk-6](https://suk.kr) 
-
-[@de-quei](https://github.com/de-quei)
+## [@suk-6](https://suk.kr)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,fastapi,nodejs,nextjs,nestjs,react,flutter,pytorch,firebase,postgres,mongodb&perline=6)](https://skillicons.dev)
 
